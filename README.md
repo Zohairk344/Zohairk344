@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Zohair, i am currently a  front end developer but plan on becoming a full stack developer by the end of this year<br>📫 How to reach me : Zohairm344@gmail.com<br>🌱 I’m currently learning Python and C++<br>❓ Ask me about anything related to Next.js, React or anything front end related<br>
+I'm Zohair, i am currently a  front end developer but plan on becoming a full stack developer by the end of this year<br>📫 How to reach me : Zohairm344@gmail.com<br>🌱 I’m currently learning Python and Ai Agents<br>❓ Ask me about anything related to Next.js, React or anything front end related<br>
 
 
 ## 🌐 Socials:
